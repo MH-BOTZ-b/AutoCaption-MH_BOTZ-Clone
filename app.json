@@ -7,10 +7,10 @@
     "auto",
     "caption" 
   ],
-  "success_url": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "website": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "repository": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
+  "success_url": "https://github.com/MH-BOTZ_b/AutoCaption-Ts_Bot-Clone",
+  "website": "https://github.com/MH-BOTZ-b/AutoCaption-Ts_Bot-Clone",
+  "repository": "https://github.com/MH-BOTZ-b/AutoCaption-Ts_Bot-Clone",
+  "logo": "https://telegra.ph/file/671394d6b59ca2b6cecfe.jpg",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
